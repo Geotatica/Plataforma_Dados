@@ -1,6 +1,0 @@
-name = "tati-quinha-ia"
-main = "worker-tatiquinha-gemini.js"
-compatibility_date = "2026-05-01"
-
-# Configure a chave como Secret:
-# wrangler secret put GEMINI_API_KEY
