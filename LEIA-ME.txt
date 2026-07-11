@@ -1,0 +1,12 @@
+PACOTE CORRIGIDO — ACESSO PÚBLICO
+
+Substitua apenas estes arquivos/pastas no repositório:
+- index.html
+- script.js
+- style.css
+- login.html
+- sources.json
+- data/sources.json
+
+Não apague os arquivos de imagem e vídeo já existentes no repositório, como:
+logo-geotatica.png, danielle-perfil.png, tati-quinha-icon.png e tati-quinha-avatar.mp4.
